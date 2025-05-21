@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Apple iPhone 13",
+    "price": 25000,
+    "rating": 4.8,
+    "review_count": 150
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "price": 22000,
+    "rating": 4.5,
+    "review_count": 120
+  },
+  {
+    "name": "Xiaomi Redmi Note 10",
+    "price": 8000,
+    "rating": 4.3,
+    "review_count": 200
+  }
+]
